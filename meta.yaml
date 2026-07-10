@@ -1,0 +1,11 @@
+name: message-scroller
+org: shadcn-spex
+version: 0.1.0
+description: "Behavioral contract for the shadcn/ui Message Scroller: transcript anatomy, follow-output auto-scroll, prepend position preservation, turn anchoring, scroll-button states, and keyboard/ARIA semantics."
+license: MIT
+repository: https://github.com/shadcn-spex/message-scroller
+languages: [en]
+reference:
+  typescript:
+    agent: Claude Code
+    model: claude-fable-5
