@@ -9,3 +9,7 @@ reference:
   typescript:
     agent: Claude Code
     model: claude-fable-5
+dependencies:
+  shadcn-spex/button:
+    version: ^0.1.0
+    mode: compose

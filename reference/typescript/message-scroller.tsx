@@ -1,5 +1,6 @@
 // Source: https://ui.shadcn.com/r/styles/new-york-v4/message-scroller.json
 // shadcn/ui — MIT License, Copyright (c) 2023 shadcn
+// Upstream dependencies (2026-07-10): absent from shadcn-ui/ui apps/v4/registry.json; pinned source imports registry [button]
 "use client"
 
 import * as React from "react"
